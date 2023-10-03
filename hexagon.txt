@@ -1,0 +1,12 @@
+! TLDs i would like blocked but have not figured out how to, yet
+! *.ru
+! *.cn
+! *.live
+! *.degree
+! *.fyi
+
+
+! Things i have seen my phone ping without reason
+
+||bronze.systems^
+||ordering.co^
